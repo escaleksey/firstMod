@@ -1,0 +1,1 @@
+{"type": "minecraft:smelting", "cookingtime": 200, "experience": 0.7, "group": "wolfram_ingot", "ingredient": [{"item": "flash_rf_mod:wolfram_ore"}], "result": {"item": "flash_rf_mod:wolfram_ingot"}}

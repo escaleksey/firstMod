@@ -1,0 +1,1 @@
+{"type": "minecraft:smelting", "cookingtime": 200, "experience": 0.7, "group": "rutenium_ingot", "ingredient": [{"item": "flash_rf_mod:raw_rutenium"}], "result": {"item": "flash_rf_mod:rutenium_ingot"}}

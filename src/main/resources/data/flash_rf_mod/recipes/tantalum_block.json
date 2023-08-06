@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "flash_rf_mod:tantalum_ingot"
+    }
+
+  },
+  "result": {
+    "item": "flash_rf_mod:tantalum_block"
+  }
+}

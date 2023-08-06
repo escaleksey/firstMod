@@ -9,5 +9,13 @@
   "item.flash_rf_mod.tantalum_ingot": "Tantalum ingot",
   "item.flash_rf_mod.raw_tantalum": "Raw tantalum",
   "block.flash_rf_mod.technetium_block": "Block of technetium",
-  "block.flash_rf_mod.technetium_ore": "Technetium ore"
+  "block.flash_rf_mod.technetium_ore": "Technetium ore",
+  "block.flash_rf_mod.wolfram_ore": "Wolfram ore",
+  "block.flash_rf_mod.wolfram_block": "Block of wolfram",
+  "block.flash_rf_mod.rutenium_ore": "Rutenium ore",
+  "block.flash_rf_mod.rutenium_block": "Block of rutenium",
+  "block.flash_rf_mod.tantalum_ore": "Tantalum ore",
+  "block.flash_rf_mod.tantalum_block": "Block of tantalum",
+  "item.flash_rf_mod.eight_ball": "Eight ball",
+  "block.flash_rf_mod.jumpy_block": "Jumpy block"
 }

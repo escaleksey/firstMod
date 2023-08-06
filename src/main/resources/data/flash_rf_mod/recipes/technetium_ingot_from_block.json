@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "flash_rf_mod:technetium_block"
+    }
+  ],
+
+  "result": {
+    "item": "flash_rf_mod:technetium_ingot",
+    "count": 9
+  }
+}
