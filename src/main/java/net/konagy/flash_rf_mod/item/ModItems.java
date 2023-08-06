@@ -8,7 +8,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
 public class ModItems {
-        public static final DeferredRegister<Item>  ITEMS =
+        public static final DeferredRegister<Item> ITEMS =
                 DeferredRegister.create(ForgeRegistries.ITEMS, FlashRFMod.MOD_ID);
 
         public static final RegistryObject<Item> TECHNETIUM_INGOT = ITEMS.register("technetium_ingot",
@@ -33,4 +33,6 @@ public class ModItems {
         public static void register(IEventBus eventBus) {
                 ITEMS.register(eventBus);
         }
+
+
 }

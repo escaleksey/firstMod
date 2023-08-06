@@ -7,5 +7,7 @@
   "item.flash_rf_mod.rutenium_ingot": "Rutenium ingot",
   "item.flash_rf_mod.raw_rutenium": "Raw rutenium",
   "item.flash_rf_mod.tantalum_ingot": "Tantalum ingot",
-  "item.flash_rf_mod.raw_tantalum": "Raw tantalum"
+  "item.flash_rf_mod.raw_tantalum": "Raw tantalum",
+  "block.flash_rf_mod.technetium_block": "Block of technetium",
+  "block.flash_rf_mod.technetium_ore": "Technetium ore"
 }
